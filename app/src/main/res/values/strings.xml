@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FitnessChallengeApp</string>
+    <string-array name="spinner_items">
+        <item>Cardio</item>
+        <item>Strength</item>
+        <item>Flexibility</item>
+    </string-array>
+</resources>
