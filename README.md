@@ -1,2 +1,2 @@
 # FITapp
-# Chech the master file of assignment 1
+# Check the master file of assignment 1
